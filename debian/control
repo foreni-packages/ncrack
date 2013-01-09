@@ -10,7 +10,7 @@ Vcs-Browser: http://git.kali.org/gitweb/?p=packages/ncrack.git;a=summary
 
 Package: ncrack
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, python, python-support
+Depends: ${misc:Depends}, python, python-support
 Description: High-speed network authentication cracking tool
  Ncrack is a high-speed network authentication cracking tool. 
  It was built to help companies secure their networks by 
