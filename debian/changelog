@@ -1,0 +1,5 @@
+ncrack (0.4-alpha-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Devon Kearns <dookie@kali.org>  Tue, 08 Jan 2013 18:04:23 -0700
