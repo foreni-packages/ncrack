@@ -1,3 +1,9 @@
+ncrack (0.4-alpha-1kali1) kali; urgency=low
+
+  * Updated watch file
+
+ -- Mati Aharoni <muts@kali.org>  Sun, 12 Jan 2014 17:49:42 -0500
+
 ncrack (0.4-alpha-1kali0) kali; urgency=low
 
   * Initial release 
